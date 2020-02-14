@@ -1,0 +1,4 @@
+{
+  "mongoURI": "ENTER_YOUR_MONGO_URI",
+  "jwtSecret": "add_unique_JwtSecret"
+}
